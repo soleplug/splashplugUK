@@ -16,6 +16,6 @@ def updateCookies(session):
     for x in range (4, len(lines)):
         name = lines[x].split()[5])
         value = lines[x].split()[6])
-        session.headers.update({name : value}
+        session.headers.update({name : value})
 
     
