@@ -7,8 +7,8 @@
 
 ## Run: 
 
-### For normal force: python3 splash.py run.bat && bash run.bat file
-### For high force: python3 splash.py run.bat && (bash run.bat file1 & bash run.bat file2)
+### For normal force: python3 splashuk.py run.bat && bash run.bat file
+### For high force: python3 splashuk.py run.bat && (bash run.bat file1 & bash run.bat file2)
 
 ## Last Step:
 
